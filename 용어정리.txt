@@ -1,0 +1,21 @@
+<title> - 웹페이지 제목 책표지로 사용 검색엔진이 이걸로 인식
+
+<meta charset="utf-8">
+char - 문자 set- 규칙   =utf-8로 문서를 읽어라 이렇게 안해주면 문자가
+깨질 수 있음
+html specification 공식 설명서 W3C 국제기구
+
+
+<body> 본문은 바디로 묶어라
+<head> body를 설명하는 태그
+<html> html문서 최종보스로 묶어주기
+<!doctype html> 이 문서는 html로 작성되었습니다. 를 관용적으로 표현
+
+<a> =앵커 닻, 링크걸기
+h = hyper text
+ref = refer 이거 참고해
+<a href="https://www.w3.org/TR/2011/WD-html5-20110405/>
+target="_blank" - 새로운 창으로 열어줘
+title="html5 specification" - 마우스 갖다대면 툴팁으로 설명하기
+
+
